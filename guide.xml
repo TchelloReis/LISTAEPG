@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo - Rio de Janeiro">
+    <display-name lang="pt">Globo Rio de Janeiro</display-name>
+    <icon src="../canais/caracol2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo - São Paulo">
+    <display-name lang="pt">Globo São Paulo</display-name>
+    <icon src="../canais/1597803780.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo TV Gazeta">
+    <display-name lang="pt">Globo TV Gazeta</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Globo">
+    <display-name lang="pt">TV Globo</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Globo HD">
+    <display-name lang="pt">Globo HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
